@@ -1,0 +1,10 @@
+{
+  "name": "awesome-crxjs",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.11.1",
+  "description": "",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
