@@ -15,12 +15,6 @@
   </a>
 </p>
 
-<!-- badges -->
-[edge]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_16x16.png
-[firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_16x16.png
-[chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_16x16.png
-[safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_16x16.png
-
 
 ## Table of Contents
 
@@ -28,6 +22,13 @@
 
 Use the "Table of Contents" menu on the top-right corner to explore the list.
 
+<!-- document-render-start-flag -->
+
+<!-- badges -->
+[edge]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_16x16.png
+[firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_16x16.png
+[chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_16x16.png
+[safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_16x16.png
 
 ### Official Resources
 
