@@ -35,7 +35,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [Documentation](https://crxjs.dev/vite-plugin)
 - [GitHub Repo](https://github.com/crxjs/chrome-extension-tools)
 - [Release Notes](https://github.com/crxjs/chrome-extension-tools/releases)
-- [Migration from `RPCE`](https://github.com/crxjs/migrate)
+- [Migration from RPCE](https://github.com/crxjs/migrate)
 
 ## Get Started
 - [create-crxjs](https://github.com/crxjs/create-crxjs) - Scaffolding Your First CRXJS Project.
