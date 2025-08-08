@@ -54,4 +54,6 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 |   Name   |   Description   |   Store   |
 |  :----:  | :------------:  |  :-----:  |
 | [bili-dark](https://github.com/FliPPeDround/bili-dark) | simple dark theme for bilibili | |
+| [spreadsheet-sheet-downloader](https://github.com/dwarjie/spreadsheet-sheet-downloader) | A browser extension that enables downloading individual sheets from Google Spreadsheets with enhanced functionality for combining multiple sheets into a single Excel file | |
+| [odoo-better-ide](https://github.com/dwarjie/odoo-better-ide) | A browser extension designed to take your Odoo ERP coding experience to the next level! 🎉 | |
 
