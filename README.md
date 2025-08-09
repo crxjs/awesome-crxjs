@@ -25,10 +25,10 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 <!-- document-render-start-flag -->
 
 <!-- badges -->
-[edge]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_16x16.png
-[firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_16x16.png
-[chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_16x16.png
-[safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_16x16.png
+[edge]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_24x24.png
+[firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_24x24.png
+[chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png
+[safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_24x24.png
 
 <!-- links -->
 [bili-dark]: https://github.com/FliPPeDround/bili-dark
