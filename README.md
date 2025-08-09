@@ -30,6 +30,16 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_16x16.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_16x16.png
 
+<!-- links -->
+[bili-dark]: https://github.com/FliPPeDround/bili-dark
+
+[spreadsheet-sheet-downloader]: https://github.com/dwarjie/spreadsheet-sheet-downloader
+[spreadsheet-chrome]: https://chromewebstore.google.com/detail/spreadsheet-sheet-downloa/nbfbpapcnlideliiaepaojgdoggpjooo
+[spreadsheet-firefox]: https://addons.mozilla.org/en-US/firefox/addon/spreadsheet-sheet-downloader
+
+[odoo-better-ide]: https://github.com/dwarjie/odoo-better-ide
+[odoo-chrome]: https://chromewebstore.google.com/detail/odoo-better-ide/gdgcmoimojllogljdillajcgdgecfknd
+
 ### Official Resources
 
 - [Documentation](https://crxjs.dev/vite-plugin)
@@ -47,13 +57,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ## Extension
 
-<!-- example: if you publish on store -->
-<!-- | [bili-dark](https://github.com/FliPPeDround/bili-dark) | simple dark theme for bilibili | [![edge]](https://microsoftedge.microsoft.com/addons/detail/bili-dark/) [![firefox]](https://addons.mozilla.org/firefox/addon/bili-dark/)<br> [![chrome]](https://chrome.google.com/webstore/detail/bili-dark/jljhjgjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhj) [![safari]](https://apps.apple.com/app/id1607498040) | -->
-
-
-|   Name   |   Description   |   Store   |
-|  :----:  | :------------:  |  :-----:  |
-| [bili-dark](https://github.com/FliPPeDround/bili-dark) | simple dark theme for bilibili | |
-| [spreadsheet-sheet-downloader](https://github.com/dwarjie/spreadsheet-sheet-downloader) | A browser extension that enables downloading individual sheets from Google Spreadsheets with enhanced functionality for combining multiple sheets into a single Excel file | |
-| [odoo-better-ide](https://github.com/dwarjie/odoo-better-ide) | A browser extension designed to take your Odoo ERP coding experience to the next level! 🎉 | |
+| Name | Description | Store |
+| :--- | :--- | :---: |
+| [bili-dark] | simple dark theme for bilibili | |
+| [spreadsheet-sheet-downloader] | A browser extension that enables downloading individual sheets from Google Spreadsheets with enhanced functionality for combining multiple sheets into a single Excel file | [![chrome]][spreadsheet-chrome] [![firefox]][spreadsheet-firefox] |
+| [odoo-better-ide] | A browser extension designed to take your Odoo ERP coding experience to the next level! 🎉 | [![chrome]][odoo-chrome] |
 
