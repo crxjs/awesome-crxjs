@@ -66,5 +66,5 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 | [bili-dark] | simple dark theme for bilibili | |
 | [spreadsheet-sheet-downloader] | A browser extension that enables downloading individual sheets from Google Spreadsheets with enhanced functionality for combining multiple sheets into a single Excel file | [![chrome]][spreadsheet-chrome] [![firefox]][spreadsheet-firefox] |
 | [odoo-better-ide] | A browser extension designed to take your Odoo ERP coding experience to the next level! 🎉 | [![chrome]][odoo-chrome] |
-| [Betterseqta+] | A beautiful Browser Extension that adds additional features and gives an overall better experience for SEQTA Learn. | [![chrome]][betterseqta+-chrome] [![firefox]][betterseqta+-firefox] |
+| [BetterSEQTA+] | A beautiful Browser Extension that adds additional features and gives an overall better experience for SEQTA Learn. | [![chrome]][betterseqta+-chrome] [![firefox]][betterseqta+-firefox] |
 
