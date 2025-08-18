@@ -44,6 +44,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 [betterseqta+-chrome]: https://chromewebstore.google.com/detail/betterseqta+/afdgaoaclhkhemfkkkonemoapeinchel?hl=en
 [betterseqta+-firefox]: https://addons.mozilla.org/en-US/firefox/addon/betterseqta-plus/
 
+[Tabbiy-Tab Auto Grouping Expert]: https://tabbiy.top/
+[Tabbiy-chrome]: https://chromewebstore.google.com/detail/tabbiy-tab-auto-grouping/foddibkdjaahgghfhdphhapjgemgjgnk?hl=en
+
 ### Official Resources
 
 - [Documentation](https://crxjs.dev/vite-plugin)
@@ -67,4 +70,5 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 | [spreadsheet-sheet-downloader] | A browser extension that enables downloading individual sheets from Google Spreadsheets with enhanced functionality for combining multiple sheets into a single Excel file | [![chrome]][spreadsheet-chrome] [![firefox]][spreadsheet-firefox] |
 | [odoo-better-ide] | A browser extension designed to take your Odoo ERP coding experience to the next level! 🎉 | [![chrome]][odoo-chrome] |
 | [BetterSEQTA+] | A beautiful Browser Extension that adds additional features and gives an overall better experience for SEQTA Learn. | [![chrome]][betterseqta+-chrome] [![firefox]][betterseqta+-firefox] |
+| [Tabbiy-Tab Auto Grouping Expert] | A powerful browser extension for easily managing tabs — boosting browsing efficiency and experience. | [![chrome]][Tabbiy-chrome] |
 
