@@ -47,6 +47,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 [Tabbiy-Tab Auto Grouping Expert]: https://tabbiy.top/
 [Tabbiy-chrome]: https://chromewebstore.google.com/detail/tabbiy-tab-auto-grouping/foddibkdjaahgghfhdphhapjgemgjgnk?hl=en
 
+[Word-Hunter]: https://github.com/word-hunter/word-hunter
+[Word-Hunter-chrome]: https://chromewebstore.google.com/detail/word-hunter/nigkedajkofkhoedhgiipmigiebldaem
+
 ### Official Resources
 
 - [Documentation](https://crxjs.dev/vite-plugin)
@@ -71,4 +74,5 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 | [odoo-better-ide] | A browser extension designed to take your Odoo ERP coding experience to the next level! 🎉 | [![chrome]][odoo-chrome] |
 | [BetterSEQTA+] | A beautiful Browser Extension that adds additional features and gives an overall better experience for SEQTA Learn. | [![chrome]][betterseqta+-chrome] [![firefox]][betterseqta+-firefox] |
 | [Tabbiy-Tab Auto Grouping Expert] | A powerful browser extension for easily managing tabs — boosting browsing efficiency and experience. 🏝️| [![chrome]][Tabbiy-chrome] |
+| [Word-Hunter] | A browser extension let you lookup and highlight english words on any web page. | [![chrome]][Word-Hunter-chrome] |
 
