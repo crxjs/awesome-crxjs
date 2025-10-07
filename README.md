@@ -60,6 +60,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 ## Get Started
 - [create-crxjs](https://github.com/crxjs/create-crxjs) - Scaffolding Your First CRXJS Project.
 - [bedframe](https://www.bedframe.dev/) - Browser Extension Development Framework
+- [create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - Boilerplates for solid \ preact \ alpine \ lit \ stencil \ inferno
 
 ### Templates
 
