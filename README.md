@@ -50,6 +50,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 [Word-Hunter]: https://github.com/word-hunter/word-hunter
 [Word-Hunter-chrome]: https://chromewebstore.google.com/detail/word-hunter/nigkedajkofkhoedhgiipmigiebldaem
 
+[Future-Tab]: https://chromewebstore.google.com/detail/future-tab/ahbjmpmfmmhkicbhmfmmcdniaeiemmnf?utm_source=item-share-cb
+[Future-Tab-chrome]: https://chromewebstore.google.com/detail/future-tab/ahbjmpmfmmhkicbhmfmmcdniaeiemmnf?utm_source=item-share-cb
+[Future-Tab-edge]: https://microsoftedge.microsoft.com/addons/detail/pchibfcmoiaedfgfglolcpoiflckkmgf
 ### Official Resources
 
 - [Documentation](https://crxjs.dev/vite-plugin)
@@ -76,4 +79,4 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 | [BetterSEQTA+] | A beautiful Browser Extension that adds additional features and gives an overall better experience for SEQTA Learn. | [![chrome]][betterseqta+-chrome] [![firefox]][betterseqta+-firefox] |
 | [Tabbiy-Tab Auto Grouping Expert] | A powerful browser extension for easily managing tabs — boosting browsing efficiency and experience. 🏝️| [![chrome]][Tabbiy-chrome] |
 | [Word-Hunter] | A browser extension let you lookup and highlight english words on any web page. | [![chrome]][Word-Hunter-chrome] |
-
+| [Future-Tab] | Beautiful start page navigation, tabmanager, bookmarks, aichat, code&css inject for website, and various small features. | [![chrome]][Future-Tab-chrome] [![edge]][Future-Tab-edge] |
