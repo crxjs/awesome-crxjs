@@ -50,6 +50,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 [Word-Hunter]: https://github.com/word-hunter/word-hunter
 [Word-Hunter-chrome]: https://chromewebstore.google.com/detail/word-hunter/nigkedajkofkhoedhgiipmigiebldaem
 
+[Future-Tab]: https://chromewebstore.google.com/detail/future-tab/ahbjmpmfmmhkicbhmfmmcdniaeiemmnf?utm_source=item-share-cb
 [Future-Tab-chrome]: https://chromewebstore.google.com/detail/future-tab/ahbjmpmfmmhkicbhmfmmcdniaeiemmnf?utm_source=item-share-cb
 [Future-Tab-edge]: https://microsoftedge.microsoft.com/addons/detail/pchibfcmoiaedfgfglolcpoiflckkmgf
 ### Official Resources
