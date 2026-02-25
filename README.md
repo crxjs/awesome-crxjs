@@ -59,6 +59,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [GitHub Repo](https://github.com/crxjs/chrome-extension-tools)
 - [Release Notes](https://github.com/crxjs/chrome-extension-tools/releases)
 - [Migration from RPCE](https://github.com/crxjs/migrate)
+- [Vitest Environment WebExt](https://github.com/crxjs/vitest-environment-web-ext)
 
 ## Get Started
 - [create-crxjs](https://github.com/crxjs/create-crxjs) - Scaffolding Your First CRXJS Project.
