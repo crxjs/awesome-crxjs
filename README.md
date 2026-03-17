@@ -73,7 +73,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ### Templates
 
-<!-- ------------------------------------- -->
+- [vitesse-crxjs](https://github.com/FliPPeDround/vitesse-crxjs) - Vitesse-Style Browser Extension Starter Template
 
 ## Extension
 
