@@ -57,6 +57,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 [Interpolate]: https://chromewebstore.google.com/detail/interpolatebeta/hjcffgbkfajlmfpmjijiafmlbeofhbpe
 [Interpolate-chrome]: https://chromewebstore.google.com/detail/interpolatebeta/hjcffgbkfajlmfpmjijiafmlbeofhbpe
 
+[CAD Viewer]: https://chromewebstore.google.com/detail/cad-viewer/dcfapcinbghmaamjkheihiogcgpkomfp
+[cadviewer-chrome]: https://chromewebstore.google.com/detail/cad-viewer/dcfapcinbghmaamjkheihiogcgpkomfp
+
 
 ### Official Resources
 
@@ -87,3 +90,4 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 | [Word-Hunter] | A browser extension let you lookup and highlight english words on any web page. | [![chrome]][Word-Hunter-chrome] |
 | [Future-Tab] | Beautiful start page navigation, tabmanager, bookmarks, aichat, code&css inject for website, and various small features. | [![chrome]][Future-Tab-chrome] [![edge]][Future-Tab-edge] |
 | [Interpolate] | Append headers to requests, mock API responses, intercept & redirect requests, & execute user scripts. | [![chrome]][Interpolate-chrome] |
+| [CAD Viewer] | View and interact with CAD models privately, right in your browser. | [![chrome]][cadviewer-chrome] |
