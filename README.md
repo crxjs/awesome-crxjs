@@ -59,6 +59,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 [CAD Viewer]: https://chromewebstore.google.com/detail/cad-viewer/dcfapcinbghmaamjkheihiogcgpkomfp
 [cadviewer-chrome]: https://chromewebstore.google.com/detail/cad-viewer/dcfapcinbghmaamjkheihiogcgpkomfp
+[cadviewer-firefox]: https://addons.mozilla.org/en-GB/firefox/addon/cad-viewer/
+[cadviewer-edge]: https://microsoftedge.microsoft.com/addons/detail/cad-viewer/gfbpegekffebnkfkbcfekogkojaogpen
 
 
 ### Official Resources
@@ -90,4 +92,4 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 | [Word-Hunter] | A browser extension let you lookup and highlight english words on any web page. | [![chrome]][Word-Hunter-chrome] |
 | [Future-Tab] | Beautiful start page navigation, tabmanager, bookmarks, aichat, code&css inject for website, and various small features. | [![chrome]][Future-Tab-chrome] [![edge]][Future-Tab-edge] |
 | [Interpolate] | Append headers to requests, mock API responses, intercept & redirect requests, & execute user scripts. | [![chrome]][Interpolate-chrome] |
-| [CAD Viewer] | View and interact with CAD models privately, right in your browser. | [![chrome]][cadviewer-chrome] |
+| [CAD Viewer] | View and interact with CAD models privately, right in your browser. | [![chrome]][cadviewer-chrome] [![firefox]][cadviewer-firefox] [![edge]][cadviewer-edge] |
